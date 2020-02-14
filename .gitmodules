@@ -1,0 +1,3 @@
+[submodule "Plugins/ESWSample"]
+	path = Plugins/ESWSample
+	url = git@github.com:sample-of-sentyaanko-on-qiita/UE4PluginForMaterialEditorSample.git
